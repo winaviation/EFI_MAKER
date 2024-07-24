@@ -5,42 +5,37 @@ NOTE: AMD or any other CPUs except for Intel WON'T BE SUPPORTED.
 # CPU Generations
 Upon running the batch file, you will have to enter a CPU generation based on numbers provided from this GitHub repository:
 
-Pentium 4: 1
 
-Yonah: 2
+Penryn: 1
 
-Conroe & Merom: 3
+Nehalem: 2
 
-Penryn: 4
+Lynnfield & Clarksfield: 3
 
-Nehalem: 5
+Westmere & Clarkdale & Arrandale: 4
 
-Lynnfield & Clarksfield: 6
+Sandy Bridge: 5
 
-Westmere & Clarkdale & Arrandale: 7
+Ivy Bridge: 6
 
-Sandy Bridge: 8
+Ivy Bridge-E5: 7
 
-Ivy Bridge: 9
+Haswell: 8
 
-Ivy Bridge-E5: 10
+Broadwell: 9
 
-Haswell: 11
+Skylake: 10 
 
-Broadwell: 12
+Kaby Lake: 11
 
-Skylake: 13
+Coffee Lake: 12
 
-Kaby Lake: 14
+Amber & Whiskey & Comet Lake: 13
 
-Coffee Lake: 15
+Comet Lake: 14
 
-Amber & Whiskey & Comet Lake: 16
+Ice Lake: 15
 
-Comet Lake: 17
-
-Ice Lake: 18
-
-Rocket Lake: 19
+Rocket Lake: 16
 
 Tiger Lake: N/A (This CPU Generation is untested according to OpenCore, so this tool won't support this CPU)
